@@ -22,35 +22,51 @@ This is a web based application developed for health and hair related based webs
 - User can know about health and hair information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots
-
-![2022-12-23 (1)](https://user-images.githubusercontent.com/117900433/209317240-da9303d7-b4f8-40f3-9d14-e0ef0c83f3cb.png)
-
-
-
-   
-
+## Screenshots -
+### home -
+![2023-01-13 (8)](https://user-images.githubusercontent.com/117900433/212313738-c4729033-78ab-4324-ba15-2ccea27eb23d.png)
+ 
 ### About Us -
-![2022-12-23 (2)](https://user-images.githubusercontent.com/117900433/209317313-37e517a7-3ef1-414d-88af-8507e31efa36.png)
 
+![2023-01-13 (9)](https://user-images.githubusercontent.com/117900433/212313795-071ce44c-156d-4fe9-ad94-c74034201f75.png)
 
+![2023-01-13 (10)](https://user-images.githubusercontent.com/117900433/212313896-b5ce89b8-31fe-421b-b293-7881451c3f12.png)
+
+![2023-01-13 (11)](https://user-images.githubusercontent.com/117900433/212313927-b45ab0a9-583f-41e6-b37e-cedeb0a33dc4.png)
 
 ### Services -
-![2022-12-23 (3)](https://user-images.githubusercontent.com/117900433/209317366-c09140a2-6b0f-49c9-8b91-6951143e30a3.png)
 
+![2023-01-13 (12)](https://user-images.githubusercontent.com/117900433/212313972-1f2bb856-b96d-4eca-ae9b-171ca6b8dbd2.png)
+
+![2023-01-13 (13)](https://user-images.githubusercontent.com/117900433/212314031-b5828f9f-0c0f-4f79-ad0e-8cb0ac23482e.png)
+
+![2023-01-13 (14)](https://user-images.githubusercontent.com/117900433/212314135-43c2e17b-1ed5-47d7-9317-2d73e6adddfc.png)
+
+### gallery -
+
+![2023-01-13 (15)](https://user-images.githubusercontent.com/117900433/212314214-30ad4400-c135-4268-b4f1-6102ee0ead8a.png)
 
 
 ### Contact us -
-![2022-12-23 (4)](https://user-images.githubusercontent.com/117900433/209317390-2c0ca6b6-9918-4e07-9e7b-82d97573523f.png)
 
+![2023-01-13 (16)](https://user-images.githubusercontent.com/117900433/212314271-48551ca9-3eec-491e-813d-d05206ecbc93.png)
 
+### health bot -
 
-### health bot
+![2023-01-13 (17)](https://user-images.githubusercontent.com/117900433/212314350-aed4965d-b690-4ba9-8cfc-c8e08093f3e5.png)
 
+### azure technologies -
 
+![2023-01-13 (18)](https://user-images.githubusercontent.com/117900433/212314684-b78f196c-23e8-46c7-9aae-fdd6fe02579f.png)
 
+### static web apps -
 
-![Screenshot (5)](https://user-images.githubusercontent.com/117900433/209425537-397a5d3c-d4fb-4ee4-a0c4-41beecd99c6b.png)
+![2023-01-13 (19)](https://user-images.githubusercontent.com/117900433/212314704-f7debf99-5e6d-4f2a-b2c2-a358f703d51c.png)
+
+### azure healthbot
+
+![2023-01-13 (20)](https://user-images.githubusercontent.com/117900433/212314737-3f78579e-3dd7-441e-95b2-8c0ea4cac2ee.png)
+
 
 ## Tech Stack
 

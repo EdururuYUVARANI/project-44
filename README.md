@@ -6,7 +6,7 @@ This is a web based application developed for health and hair related based webs
 
 
 **Project Link** -https://salmon-mud-0d05b2700.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtu.be/GJyM2PhsLqA
 
 ## Azure technologies used for Project
 
